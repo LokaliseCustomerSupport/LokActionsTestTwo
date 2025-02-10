@@ -8,14 +8,14 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-#: "This is a reference comment"
+#: "This is a reference commentx"
 msgid "Installment principalx"
 msgstr "Installment principalx"
 
 #, fuzzy
-msgctxt "InvoiceItemTypeUpdatedd"
-msgid "Installment principal"
-msgstr "Installment principal"
+msgctxt "InvoiceItemTypeUpdatedddddd"
+msgid "Installment principaldd"
+msgstr "Installment principaldd"
 
 msgid "%d page read."
 msgid_plural "%d pages read."
