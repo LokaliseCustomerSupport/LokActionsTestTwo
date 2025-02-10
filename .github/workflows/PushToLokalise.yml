@@ -15,7 +15,7 @@ jobs:
       - name: Push to Lokalise
         uses: bodrovis/Lok-Actions/actions/push@master
         with:
-          api_token: ${{ secrets.LOKALISE_API_TOKEN }}
+          api_token: c430105f37c57b10e514a1cf86ac9f05d1d25b5f
           project_id: 5007330766e058e0bed4d3.26377346
           base_lang: en
           translations_path: locales
