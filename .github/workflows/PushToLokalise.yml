@@ -18,6 +18,6 @@ jobs:
           api_token: c430105f37c57b10e514a1cf86ac9f05d1d25b5f
           project_id: 5007330766e058e0bed4d3.26377346
           base_lang: en
-          translations_path: locales
-          file_format: json
+          translations_path: locales/en
+          file_format: po
           additional_params: "--convert-placeholders --hidden-from-contributors"
