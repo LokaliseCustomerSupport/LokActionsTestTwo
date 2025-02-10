@@ -9,8 +9,8 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: "This is a reference comment"
-msgid "Installment principal"
-msgstr "Installment principal"
+msgid "Installment principalx"
+msgstr "Installment principalx"
 
 #, fuzzy
 msgctxt "InvoiceItemTypeUpdatedd"
